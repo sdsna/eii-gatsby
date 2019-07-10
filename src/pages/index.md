@@ -2,7 +2,7 @@
 title: Home
 sections:
   - component: HeroBlock
-    image: images/avatar.png
+    image: /images/eii-arrow-circle.png
     section_id: hero
     subtitle: >-
       ### It includes outcome-based measures of resource use and pollution
