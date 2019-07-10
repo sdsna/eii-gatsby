@@ -1,6 +1,6 @@
 ---
 title: Objectives
-subtitle: Objectives
+subtitle: About the Project
 menus:
   main:
     title: Objectives
