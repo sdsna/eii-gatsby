@@ -68,6 +68,7 @@ ol {
 
 li {
     line-height: 1.55rem;
+    font-weight: $light;
 
     &:not(:last-child) {
         margin-bottom: 0.5rem;
