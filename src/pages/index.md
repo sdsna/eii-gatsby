@@ -18,28 +18,40 @@ sections:
     title: Text
     type: contentblock
   - component: TextImageBlock
-    image: images/art.svg
-    section_id: cat
+    image: /images/sdsn-logo.png
+    section_id: sdsn
     text: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-    title: A Cat
+      The [Sustainable Development Solutions Network (SDSN)](http://unsdsn.org/)
+      has been operating since 2012 under the auspices of the UN
+      Secretary-General to support the design and implementation of the SDGs.
+      SDSN has been deeply involved in the design and implementation of
+      monitoring frameworks for the SDGs. Since 2016, SDSN and the Bertelsmann
+      Stiftung have jointly released the annual Global SDG Index and Dashboards
+      benchmarking the performance of countries on the 17 Sustainable
+      Development Goals (SDGs). The SDSN’s thematic network on data (TReNDS)
+      provides advice and recommendations on SDG data. SDSN solicits experts on
+      all dimensions of the SDGs using its network of over 750 member
+      institutions. It has also undertaken a large number of public
+      consultations on SDG indicators. 
+    title: SDSN
+    type: textimageblock
+  - image: /images/ycelp-logo.gif
+    section_id: ycelp
+    text: >-
+      The [Yale Center for Environmental Law &
+      Policy](https://envirocenter.yale.edu/), a joint undertaking between Yale
+      Law School and the Yale School of Forestry & Environmental Studies,
+      advances fresh thinking and analytically rigorous approaches to
+      environmental decision-making across disciplines, sectors, and scales. In
+      addition to its research activities, the Center also aims to foster
+      discussion and collaboration across the Yale campus on environmental law
+      and policy issues at the local, regional, national, and global levels. The
+      Center facilitates a joint-degree program through which Yale Law students
+      can simultaneously pursue a master’s degree at the Yale School of Forestry
+      & Environmental Studies, while providing research, educational, career
+      development, and social opportunities for students as well as for others
+      affiliated with the Center.
+    title: 'Yale Center for Environmental Law & Policy '
     type: textimageblock
 menus:
   main:
