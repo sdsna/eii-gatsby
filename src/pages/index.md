@@ -41,11 +41,6 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
     title: A Cat
     type: textimageblock
-  - component: Postlist
-    num_posts_displayed: 6
-    section_id: posts
-    title: Recent Posts
-    type: postlist
 menus:
   main:
     title: Home
