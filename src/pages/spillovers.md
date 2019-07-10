@@ -7,7 +7,7 @@ menus:
     weight: 4
 template: page
 ---
-\### What is it?
+### What is it?
 
 In an increasingly interdependent world, countries’ action as explained above can have positive or negative effects on other countries’ ability to achieve the SDGs. Such international “spillovers” are pervasive and have been growing fast as a result of globalization and growth in trade, exceeding the growth in production and in world gross domestic product (Fischer-Kowalski et al., 2015) (Table 1). Rapid population growth, political instability and weak institutions in some regions of the world have also contributed to the growth in spillover effects (e.g. trade in illicit arms exports). These spillovers have been classified into four broad types: trade, people, finance, and biophysical (Davis et al. 2016). 
 
@@ -18,7 +18,7 @@ International demand for palm oil /or products that are produced with palm oil i
 
 Positive and negative spillovers must be understood, measured, and carefully managed since countries cannot achieve the SDGs if spillovers from other countries actions counteract their efforts. The 2017 SDG Index Report issued by the SDSN and Bertelsmann Stiftung (Sachs et al., 2017) provided a first systematic assessment of international spillover effects, further developed in its 2019 edition (Sachs et al., 2019). It showed that negative effects tend to flow from rich to poor countries. Most trans-national companies that control international supply chains are also located in high-income countries, so these countries bear a special responsibility to identify and tackle international spillover effects.
 
-\### How is it measured? 
+### How is it measured? 
 
 Overall, data and information on cross-border spillover effects tends to be sparse and incomplete. To some extent this is due to the lack of a clear conceptual framework, but more importantly the increasing length and complexity of supply chains slows down the assessments of trade-related spillovers. Other challenges are that national and international databases are often inconsistent and that national statistical offices are rarely mandated to measure international spillovers. Even if data are available and consistent, it remains challenging to clearly assign responsibility for negative externalities to an individual country along the supply chain. The work of international organizations in this area is furthermore hampered by political sensitivities among member states on the measurement of spillover effects and on the difficulties of clearly assigning responsibility for negative externalities to one particular country.
 
