@@ -119,3 +119,9 @@ figcaption {
 pre {
     white-space: pre-wrap;
 }
+#visualization {
+  img {
+    margin: 1.5rem auto;
+    max-width: 100%;
+  }
+}

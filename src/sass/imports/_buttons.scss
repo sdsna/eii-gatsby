@@ -20,6 +20,8 @@ button,
     &:not(.logo):not(.nav-link) {
         font-weight: inherit;
         position: relative;
+        text-decoration: underline;
+        color: $blue;
 
         &.passive {
             &:after {opacity: 0;}
@@ -27,6 +29,7 @@ button,
             &:hover:after {opacity: 1;}
         }
 
+        /*
         &:after {
             content: '';
             position: absolute;
@@ -38,6 +41,7 @@ button,
             opacity: .5;
             z-index: -1;
         }
+        */
 
         &:hover,
         &:focus {

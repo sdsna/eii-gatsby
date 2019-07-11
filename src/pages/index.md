@@ -13,8 +13,21 @@ sections:
       countries’ domestic and international environmental impacts.
     type: heroblock
   - component: ContentBlock
-    content: "This new global measure will inform domestic and international policy debates on sustainable consumption and production in the context of Agenda 2030, the SDGs and the Paris Climate Agreement. It uses data from a wide range of sources official and non-official - including from new technologies. For all metrics, time-bound thresholds have been identified that need to be achieved in order to meet the SDGs and honor commitments made in the Paris Climate Change Agreement.\r\n\nThe first prototype version of the EII will be launched in 2020. \r\n\nFor now, please take a look at our new data visualization tool that tracks “bilateral spillover effects” – the international environmental impacts of countries embodied into trade. \n\nThe project is a joint initiative led by the Sustainable Development Solutions Network (SDSN) and the Yale Center for Environmental Law & Policy (YCELP). We are grateful for the support provided by Roberta Gordon and Marshall Ruben as well as from the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) on behalf of the German Federal Ministry for Economic Cooperation and Development (BMZ)."
+    content: "This new global measure will inform domestic and international policy debates on sustainable consumption and production in the context of Agenda 2030, the SDGs and the Paris Climate Agreement. It uses data from a wide range of sources official and non-official - including from new technologies. For all metrics, time-bound thresholds have been identified that need to be achieved in order to meet the SDGs and honor commitments made in the Paris Climate Change Agreement.\r\n\nThe first prototype version of the EII will be launched in 2020."
     section_id: intro
+    title: Text
+    type: contentblock
+  - component: ContentBlock
+    content: "### Explore Bilateral Spillover Effects
+
+    For now, please take a look at our new [data visualization tool](https://spillovers.environmentalimpact.global) that tracks “bilateral spillover effects” – the international environmental impacts of countries embodied into trade.
+
+    [![Spillover Dashboard](/images/spillover-dashboard.png)](https://spillovers.environmentalimpact.global)
+
+    ### About the Project
+
+    The project is a joint initiative led by the **Sustainable Development Solutions Network (SDSN)** and the **Yale Center for Environmental Law & Policy (YCELP)** We are grateful for the support provided by Roberta Gordon and Marshall Ruben as well as from the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) on behalf of the German Federal Ministry for Economic Cooperation and Development (BMZ)."
+    section_id: visualization
     title: Text
     type: contentblock
   - component: TextImageBlock
