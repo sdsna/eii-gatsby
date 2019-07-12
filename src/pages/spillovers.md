@@ -7,6 +7,21 @@ menus:
     weight: 4
 template: page
 ---
+### Tracking bilateral spillover effects
+
+#### Indicator Descriptions and References
+
+The [data visualization tool](https://spillovers.environmentalimpact.global) shows bilateral spillover effects that one country has on another. To this end, the data visualization uses five metrics of environmental and social harms, listed below, in addition to the spillover index score from the [Sustainable Development Report 2019](https://www.sustainabledevelopment.report/reports/sustainable-development-report-2019/). For the below metrics, the higher the value, the larger the harmful spillover effects one country has on another. For the spillover index score (0-100), 100 denotes a perfect score of no spillovers, while smaller values denote a worsening score and larger spillover effects.
+
+**Greenhouse gas emissions:** Measures the CO2 equivalent of the following greenhouse gases: Carbon Dioxide, Methane, the Fluorinated gases, and Nitrous Oxide. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
+
+**Nitrogen:** Measures the total emissions of reactive nitrogen potentially exportable to water bodies and ammonia. Nitrogen emissions stem mostly from crop fertilizer and harm human health notably via aquifer contamination and the environment, notably through eutrophication. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
+
+**Nitrogen Oxides:** Measures the emissions from Nitrogen Oxides (NOx). Nitrogen oxides stem mostly from the combustion of fossil fuels and are harmful air pollutants that also contribute to acid rain. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
+
+**Water depletion:** Measures water embodied into imports (virtual water) weighted by the water scarcity of the region where the imports were produced. The units are Mm3 world water equivalents for the absolute measure and Mm3 world water equivalents per 100,000 population for the per capita measure.
+Fatal Accidents at work : Measures fatal work-related accidents embodied into imported goods. The indicator attributes fatal accidents in countries with low labor standards to importing countries based on the monetary value of the goods by sector. The units are the number of deaths for the absolute measure and deaths/100,000 population for the per capita measure.
+
 ### What is it?
 
 In an increasingly interdependent world, countries’ actions can have positive or negative effects on other countries’ ability to achieve the SDGs. Such international “spillovers” are pervasive and have been growing fast as a result of globalization and growth in trade, exceeding the growth in production and in world gross domestic product (Fischer-Kowalski et al., 2015) (Table 1). Rapid population growth, political instability and weak institutions in some regions of the world have also contributed to the growth in spillover effects (e.g. trade in illicit arms exports). These spillovers have been classified into four broad types: trade, people, finance, and biophysical (Davis et al. 2016).
@@ -33,20 +48,7 @@ Different research groups have applied these three methods to different impacts 
 
 Several teams develop hybrid approaches that seek to combine advantages of the different methods and to overcome individual constraints.
 
-### Tracking bilateral spillover effects
-
-#### Indicator Descriptions and References
-
-The [data visualization tool](https://spillovers.environmentalimpact.global) shows bilateral spillover effects that one country has on another. To this end, the data visualization uses five metrics of environmental and social harms, listed below, in addition to the spillover index score from the [Sustainable Development Report 2019](https://www.sustainabledevelopment.report/reports/sustainable-development-report-2019/). For the below metrics, the higher the value, the larger the harmful spillover effects one country has on another. For the spillover index score (0-100), 100 denotes a perfect score of no spillovers, while smaller values denote a worsening score and larger spillover effects.
-
-**Greenhouse gas emissions:** Measures the CO2 equivalent of the following greenhouse gases: Carbon Dioxide, Methane, the Fluorinated gases, and Nitrous Oxide. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
-
-**Nitrogen:** Measures the total emissions of reactive nitrogen potentially exportable to water bodies and ammonia. Nitrogen emissions stem mostly from crop fertilizer and harm human health notably via aquifer contamination and the environment, notably through eutrophication. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
-
-**Nitrogen Oxides:** Measures the emissions from Nitrogen Oxides (NOx). Nitrogen oxides stem mostly from the combustion of fossil fuels and are harmful air pollutants that also contribute to acid rain. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
-
-**Water depletion:** Measures water embodied into imports (virtual water) weighted by the water scarcity of the region where the imports were produced. The units are Mm3 world water equivalents for the absolute measure and Mm3 world water equivalents per 100,000 population for the per capita measure.
-Fatal Accidents at work : Measures fatal work-related accidents embodied into imported goods. The indicator attributes fatal accidents in countries with low labor standards to importing countries based on the monetary value of the goods by sector. The units are the number of deaths for the absolute measure and deaths/100,000 population for the per capita measure.
+### References
 
 For details on these indicators and the methodology for producing them, please see the references below:
 
