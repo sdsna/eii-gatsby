@@ -20,7 +20,7 @@ sections:
   - component: ContentBlock
     content: "### Explore Bilateral Spillover Effects
 
-    For now, please take a look at our new [data visualization tool](https://spillovers.environmentalimpact.global) that tracks “bilateral spillover effects” – the international environmental impacts of countries embodied into trade.
+    For now, please take a look at our new [data visualization tool](https://spillovers.environmentalimpact.global) that tracks “bilateral spillover effects” – the international environmental impacts<sup>1</sup> of countries embodied into trade.
 
     [![Spillover Dashboard](/images/spillover-dashboard.png)](https://spillovers.environmentalimpact.global)
 
@@ -44,6 +44,9 @@ sections:
       The [Yale Center for Environmental Law & Policy](https://envirocenter.yale.edu/), a joint undertaking between Yale Law School and the Yale School of Forestry & Environmental Studies, advances fresh thinking and analytically rigorous approaches to environmental decision-making across disciplines, sectors, and scales. In addition to its research activities, the Center also aims to foster discussion and collaboration across the Yale campus on environmental law and policy issues at the local, regional, national, and global levels. The Center facilitates a joint-degree program through which Yale Law students can simultaneously pursue a master’s degree at the Yale School of Forestry & Environmental Studies, while providing research, educational, career development, and social opportunities for students as well as for others affiliated with the Center.
     title: About Yale
     type: textimageblock
+footnotes: >-
+  1. The data visualization for spillovers also includes one measure of
+  socio-economic spillover effects: Fatal accidents at work.
 menus:
   main:
     title: Home
