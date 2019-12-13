@@ -45,7 +45,7 @@ sections:
     title: About Yale
     type: textimageblock
 footnotes: >-
-  1. The data visualization for spillovers also includes one measure of
+  1\. The data visualization for spillovers also includes one measure of
   socio-economic spillover effects: Fatal accidents at work.
 menus:
   main:
