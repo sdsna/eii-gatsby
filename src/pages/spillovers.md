@@ -11,16 +11,20 @@ template: page
 
 #### Indicator Descriptions and References
 
-The [data visualization tool](https://spillovers.environmentalimpact.global) shows bilateral spillover effects that one country has on another. To this end, the data visualization uses five metrics of environmental and social harms, listed below, in addition to the spillover index score from the [Sustainable Development Report 2019](https://www.sustainabledevelopment.report/reports/sustainable-development-report-2019/). For the below metrics, the higher the value, the larger the harmful spillover effects one country has on another. For the spillover index score (0-100), 100 denotes a perfect score of no spillovers, while smaller values denote a worsening score and larger spillover effects.
+The [data visualization tool](https://spillovers.environmentalimpact.global) shows bilateral spillover effects that one country has on another. To this end, the data visualization uses six metrics of environmental and social harms, listed below, in addition to the spillover index score from the [Sustainable Development Report 2020](https://www.sustainabledevelopment.report/reports/sustainable-development-report-2020/). For the below metrics, the higher the value, the larger the harmful spillover effects one country has on another. For the spillover index score (0-100), 100 denotes a perfect score of no spillovers, while smaller values denote a worsening score and larger spillover effects.
 
-**Greenhouse gas emissions:** Measures the CO2 equivalent of the following greenhouse gases: Carbon Dioxide, Methane, the Fluorinated gases, and Nitrous Oxide. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
+**CO₂ emissions:** CO₂ emissions embodied in imported goods and services. The units are kilo tonnes for the absolute emissions and kilo tonnes per 100,000 population for the per capita emissions.
 
 **Nitrogen:** Measures the total emissions of reactive nitrogen potentially exportable to water bodies and ammonia. Nitrogen emissions stem mostly from crop fertilizer and harm human health notably via aquifer contamination and the environment, notably through eutrophication. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
 
-**Nitrogen Oxides:** Measures the emissions from Nitrogen Oxides (NOx). Nitrogen oxides stem mostly from the combustion of fossil fuels and are harmful air pollutants that also contribute to acid rain. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
+**Nitrogen oxides:** Measures the emissions from Nitrogen Oxides (NOx). Nitrogen oxides stem mostly from the combustion of fossil fuels and are harmful air pollutants that also contribute to acid rain. The units are kilograms for the absolute emissions and kilograms/100,000 population for the per capita emissions.
 
-**Water depletion:** Measures water embodied into imports (virtual water) weighted by the water scarcity of the region where the imports were produced. The units are Mm3 world water equivalents for the absolute measure and Mm3 world water equivalents per 100,000 population for the per capita measure.
-Fatal Accidents at work : Measures fatal work-related accidents embodied into imported goods. The indicator attributes fatal accidents in countries with low labor standards to importing countries based on the monetary value of the goods by sector. The units are the number of deaths for the absolute measure and deaths/100,000 population for the per capita measure.
+**Sulfur dioxide (SO₂) emissions:** Emissions of SO₂ embodied in imported goods and services. SO₂ emissions have severe health impacts and are a significant cause of premature mortality worldwide. The units are tonnes for the absolute emissions and tonnes/100,000 population for the per capita emissions.
+
+**Scarce water consumption:** Water scarcity is measured as water consumption weighted by scarcity indices. In order to incorporate water scarcity into the virtual water flow calculus, a new satellite account was constructed where water use entries are weighted so that they reflect the scarcity of the water being used. The weight used is a measure of water withdrawals as a percentage of the existing local renewable freshwater resources. The Water Scarcity Index was used for converting total water use into scarce water use. The units are megaliters for the absolute measure and megaliters per 100,000 population for the per capita measure.
+
+**Fatal Accidents at work:** Measures fatal work-related accidents embodied into imported goods. The indicator attributes fatal accidents in countries with low labor standards to importing countries based on the monetary value of the goods by sector. The units are the number of deaths for the absolute measure and deaths/100,000 population for the per capita measure.
+
 
 ### What is it?
 
@@ -55,6 +59,8 @@ For details on these indicators and the methodology for producing them, please s
 Lenzen M, Kanemoto K; Moran D, and Geschke A (2012)  Mapping the structure of the world economy. Environmental Science & Technology 46(15) pp 8374–8381. DOI: 10.1021/es300171x
 
 Lenzen, M., Moran, D., Kanemoto, K., Geschke, A. (2013)  Building Eora: A Global Multi-regional Input-Output Database at High Country and Sector Resolution. Economic Systems Research, 25:1, 20-49, DOI:10.1080/09535314.2013.769938
+
+Lenzen, M., Malik, A., Li, M., Fry, J., Weisz, H., Pichler, P-P., Chaves, L.S.M., Capon, A. Pencheon, D. (2020). The global environmental footprint of healthcare. The Lancet Planetary Health, 4(7), 271-279. https://doi.org/10.1016/S2542-5196(20)30121-2
 
 Kanemoto, K., D. Moran, Hertwitch, E. (2016) Mapping the Carbon Footprint of Nations. Environmental Science and Technology 10.1021/acs.est.6b03227
 
